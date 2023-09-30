@@ -10,7 +10,7 @@ My quest for knowledge extends to diverse realms of development, and I've succes
 <br> 
 <p>
   
-
+  -  📧 Portfolio website : <a href="https://ayushiportfolio23.netlify.app/" alt="AyushiGupta">Ayushi's Portfolio</a>
   -  📧 Mail me @ <u><b> ayushi03gn@gmail.com  </b>
   
   -  📧 Download my Resume at : <a href="https://drive.google.com/drive/folders/1FeU6Wyt4tcMelbfydn4nCHx_Y3AIqecv?usp=drive_link" alt="AyushiGupta">Ayushi's Resume</a>
